@@ -5,4 +5,4 @@ NANO edge IA studio:(la version disponible)
 https://www.st.com/en/development-tools/nanoedgeaistudio.html#get-software
 
 QT 6 et QT creator:
-https://www.qt.io/development/download
+https://www.qt.io/development/download-qt-installer-oss

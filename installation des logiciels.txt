@@ -1,0 +1,8 @@
+STM32Cube ide 1.19.0 (avec STM32CUBEMX intégrés qui se trouve dans les versions <=1.19.0)
+https://www.st.com/en/development-tools/stm32cubeide.html
+
+NANO edge IA studio:(la version disponible)
+https://www.st.com/en/development-tools/nanoedgeaistudio.html#get-software
+
+QT 6 et QT creator:
+https://www.qt.io/development/download
